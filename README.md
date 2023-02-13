@@ -1,2 +1,2 @@
-# AVALIAÇÃO-DA-INFLUNCIA-DO-USO-DE-EMBEDDINGS-NO-RECONHECIMENTO-DE-ENTIDADES-NOMEADAS-PARA-O-PORTUGUÊS
+# Avaliação da Influência do uso de Embeddings no Reconhecimento de Entidades Nomeadas para o Português
 Modelos NER para português
